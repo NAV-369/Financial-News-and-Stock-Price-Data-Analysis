@@ -1,4 +1,4 @@
-# Week 1: Financial News and Stock Price Analysis
+# Financial News and Stock Price Analysis
 
 ## Overview
 This project focuses on analyzing financial news and stock prices to extract useful insights and trends. The goal of Week 1 is to set up the project structure, load the dataset, perform exploratory data analysis (EDA), and gain valuable insights about publication trends, sentiment, and more.
